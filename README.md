@@ -95,7 +95,7 @@ plt.show()
 ```
 
 ## Output:
-<img width="565" height="453" alt="image" src="https://github.com/user-attachments/assets/3bcdcc36-cbfb-4b20-95d7-54335aa102d5" />
+![WhatsApp Image 2026-01-31 at 2 22 17 PM](https://github.com/user-attachments/assets/57f66720-81c4-4caa-a594-1adf5e349ad9)
 
 
 ## Result:
